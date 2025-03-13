@@ -1,12 +1,10 @@
 # Anime Landing Page
 
-این یک صفحه لندینگ با تم انیمه است که با استفاده از HTML و Tailwind CSS ساخته شده است. این پروژه به عنوان یک نمونه از طراحی‌های خلاقانه و مدرن برای صفحات لندینگ ارائه شده است.
+این یک صفحه لندینگ با تم انیمه است که با استفاده از HTML و Tailwind CSS ساخته شده است. این پروژه به عنوان یک نمونه از طراحی‌های خلاقانه و مدرن برای صفحات لندینگ ارائه شده است
 
-## پیش‌نمایش
 
-![Preview](./preview.png)
 
-برای دیدن نسخه زنده این پروژه، [اینجا](https://username.github.io/repository-name) کلیک کنید.
+برای دیدن نسخه زنده این پروژه، [اینجا](https://shina499.github.io/anime) کلیک کنید.
 
 ## تکنولوژی‌های استفاده شده
 
@@ -19,28 +17,18 @@
 1. ابتدا مخزن را کلون کنید:
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/shina499/anime.git
 به دایرکتوری پروژه بروید:
 
 bash
-Copy
-cd repository-name
+
+cd anime
 فایل index.html را در مرورگر خود باز کنید:
 
 bash
 Copy
 open index.html
-ساختار پروژه
-Copy
-repository-name/
-├── index.html
-├── styles/
-│   └── main.css
-├── assets/
-│   ├── images/
-│   └── fonts/
-├── README.md
-└── preview.png
+
 مشارکت
 اگر می‌خواهید در این پروژه مشارکت کنید، مراحل زیر را دنبال کنید:
 
